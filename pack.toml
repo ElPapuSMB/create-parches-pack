@@ -1,0 +1,13 @@
+name = "Factorio Modpack"
+author = "ElPapuSMB"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1e9964054251b8728bc9946c8a0df699647d9c424467aaf3c4a615580c8532c5"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.267"
