@@ -9,42 +9,6 @@ file = "config/CT_tablet_apps.json"
 hash = "2ad4414185df13191b8e9247bacfa39d0a19d7c6b10769b03dc4d7fd8a456685"
 
 [[files]]
-file = "config/Mekanism/client.toml"
-hash = "fa311a5086b0cc91ad4ddd1a13d39d841675e9294c70d8366e88526520d276e9"
-
-[[files]]
-file = "config/Mekanism/common.toml"
-hash = "41850b5f863ea3463cbaf2c194849c18f25971c548bb7ab469f16a3f07e63929"
-
-[[files]]
-file = "config/Mekanism/gear.toml"
-hash = "87c1277f6d6482fe60deea64e73b3de019c65c7b4b7d0ef08c79f0ab3db95173"
-
-[[files]]
-file = "config/Mekanism/general.toml"
-hash = "6a49a2810766c272012bf72aa298364b09a963d3d613515f3a591f3d103ed95d"
-
-[[files]]
-file = "config/Mekanism/machine-storage.toml"
-hash = "029c07fbceff23b8545519a46d192f40cb18d28feea5fc91544e8f6e3e934420"
-
-[[files]]
-file = "config/Mekanism/machine-usage.toml"
-hash = "ecf9f2597282ab1c1287122de664f85eb54b6dcc611c17e70732871f8a9ba35c"
-
-[[files]]
-file = "config/Mekanism/startup.toml"
-hash = "4b1cf299c46ac8b9fb77ba9e8fe79d5594652ab4224f21b4ffc355ba1ade9b08"
-
-[[files]]
-file = "config/Mekanism/tiers.toml"
-hash = "06c76a1a1e2a70d4f56dc3dd9a3d26057ce9f4e64a7cdadf1712e05e5a2c4165"
-
-[[files]]
-file = "config/Mekanism/world.toml"
-hash = "e4f20adff1bedc918445de3d149e5275b7cf642a49ca8bdd3480cf54f6a455a1"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -75,18 +39,6 @@ hash = "2d70ecdbf24b7e5e3ab6f19715dcb37d956931e0b65e7026b4d5524e002c46e4"
 [[files]]
 file = "config/Veinminer/update/veinminer-neoforge-2.14.0+1.21.1.jar"
 hash = "bdf08006c0488fcacff5779b7c7a6c2809752d7f16e60b7fd0ab9561b64a406e"
-
-[[files]]
-file = "config/ad_astra-client.jsonc"
-hash = "73b23db2525cb87e0ba5231faf86fe1258b34e6bb71cd1179a592057b9c21b89"
-
-[[files]]
-file = "config/ad_astra.jsonc"
-hash = "fad4ca69e7da7c29736145c867bbe17eb414cf20cff2bbdd490dd32b78cafb08"
-
-[[files]]
-file = "config/ad_astra_giselle_addon.jsonc"
-hash = "6634e4a4205f67beb282c447c526affdafc98e5bd5cffe6b5cafca0d2eabc596"
 
 [[files]]
 file = "config/aeronautics-server.toml"
@@ -1739,14 +1691,6 @@ hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
 [[files]]
 file = "config/trender.json"
 hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
-
-[[files]]
-file = "config/waterconfig.toml"
-hash = "e5806ca350b26f9c299c7b75728f3f9c0664c286470daa027e4ce547097b90a5"
-
-[[files]]
-file = "config/watermedia.toml"
-hash = "c167ad90e6fc2b409c7683dbeac88cbfd85849b90f8df13b5446c1203c1c510c"
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
