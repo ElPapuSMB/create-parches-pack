@@ -1,5 +1,0 @@
-[
-  {"version":2},
-  {"ingredient":{"id":"createdeco:industrial_iron_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:shield","components":"{\"minecraft:damage\":24}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
