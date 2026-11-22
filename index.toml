@@ -713,10 +713,6 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
-file = "config/sodium-options.json"
-hash = "0846d3b35c942b3b533489788ca1157b029bf3ffc99b57314986be005e0e0459"
-
-[[files]]
 file = "mods/BadOptimizations-2.4.1-1.21.1.jar"
 hash = "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"
 
@@ -983,10 +979,6 @@ hash = "261c8dea7d3b2794fd613089d2589a9db2de7522fe153a6d9ebcac1683250ad0"
 [[files]]
 file = "mods/sophisticatedcore-1.21.1-1.5.39.2489.jar"
 hash = "af0e9d718858abd41c5886475d5ed9c797a4e4536567a2095d4cf60fe5e84774"
-
-[[files]]
-file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
-hash = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
 
 [[files]]
 file = "mods/veinminer-neoforge-2.14.0+1.21.1.jar"
